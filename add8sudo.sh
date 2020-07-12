@@ -36,4 +36,5 @@ sudo git clone -b 8.0 https://github.com/open-synergy/opnsynid-stock-reporting
 sudo git clone -b 8.0 https://github.com/odoomrp/odoomrp-utils.git
 sudo git clone -b 8.0 https://github.com/odoomrp/odoomrp-wip
 sudo git clone -b 8.0 https://github.com/OdooCommunityWidgets/website_multi_image.git
+sudo git clone -b 8.0 https://github.com/OCA/website
 sudo git clone https://github.com/oktovan/invent2.git
