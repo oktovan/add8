@@ -41,4 +41,5 @@ git clone -b 8.0 https://github.com/OCA/website
 git clone https://github.com/oktovan/invent2.git
 git clone -b 8.0 https://github.com/open-synergy/opnsynid-l10n-indonesia-report
 git clone -b 8.0 https://github.com/open-synergy/opnsynid-sale-reporting
+git clone -b 8.0 https://github.com/OCA/product-variant
 
