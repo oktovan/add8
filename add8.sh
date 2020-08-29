@@ -6,6 +6,7 @@ git clone -b 8.0 https://github.com/oca/account-financial-tools
 git clone -b 8.0 https://github.com/oca/contract
 git clone -b 8.0 https://github.com/oca/intrastat
 git clone -b 8.0 https://github.com/oca/mis-builder
+git clone -b 8.0 https://github.com/oca/manufacture
 git clone -b 8.0 https://github.com/oca/operating-unit
 git clone -b 8.0 https://github.com/oca/partner-contact
 git clone -b 8.0 https://github.com/OCA/purchase-workflow
