@@ -21,6 +21,7 @@ git clone -b 8.0 https://github.com/open-synergy/opnsynid-account-closing
 git clone -b 8.0 https://github.com/open-synergy/opnsynid-account-invoicing
 git clone -b 8.0 https://github.com/open-synergy/opnsynid-accounting-report
 git clone -b 8.0 https://github.com/open-synergy/opnsynid-edii
+git clone -b 8.0 https://github.com/open-synergy/opnsynid-hr
 git clone -b 8.0 https://github.com/open-synergy/opnsynid-l10n-indonesia
 git clone -b 8.0 https://github.com/open-synergy/opnsynid-manufacture
 git clone -b 8.0 https://github.com/open-synergy/opnsynid-odoo-curated
@@ -38,4 +39,6 @@ git clone -b 8.0 https://github.com/odoomrp/odoomrp-wip
 git clone -b 8.0 https://github.com/OdooCommunityWidgets/website_multi_image.git
 git clone -b 8.0 https://github.com/OCA/website
 git clone https://github.com/oktovan/invent2.git
+git clone -b 8.0 https://github.com/open-synergy/opnsynid-l10n-indonesia-report
+git clone -b 8.0 https://github.com/open-synergy/opnsynid-sale-reporting
 
