@@ -6,6 +6,7 @@ sudo git clone -b 8.0 https://github.com/oca/account-financial-tools
 sudo git clone -b 8.0 https://github.com/oca/contract
 sudo git clone -b 8.0 https://github.com/oca/intrastat
 sudo git clone -b 8.0 https://github.com/oca/mis-builder
+sudo git clone -b 8.0 https://github.com/oca/manufacture
 sudo git clone -b 8.0 https://github.com/oca/operating-unit
 sudo git clone -b 8.0 https://github.com/oca/partner-contact
 sudo git clone -b 8.0 https://github.com/OCA/purchase-workflow
@@ -21,6 +22,7 @@ sudo git clone -b 8.0 https://github.com/open-synergy/opnsynid-account-closing
 sudo git clone -b 8.0 https://github.com/open-synergy/opnsynid-account-invoicing
 sudo git clone -b 8.0 https://github.com/open-synergy/opnsynid-accounting-report
 sudo git clone -b 8.0 https://github.com/open-synergy/opnsynid-edii
+sudo git clone -b 8.0 https://github.com/open-synergy/opnsynid-hr
 sudo git clone -b 8.0 https://github.com/open-synergy/opnsynid-l10n-indonesia
 sudo git clone -b 8.0 https://github.com/open-synergy/opnsynid-manufacture
 sudo git clone -b 8.0 https://github.com/open-synergy/opnsynid-odoo-curated
@@ -38,3 +40,6 @@ sudo git clone -b 8.0 https://github.com/odoomrp/odoomrp-wip
 sudo git clone -b 8.0 https://github.com/OdooCommunityWidgets/website_multi_image.git
 sudo git clone -b 8.0 https://github.com/OCA/website
 sudo git clone https://github.com/oktovan/invent2.git
+sudo git clone -b 8.0 https://github.com/open-synergy/opnsynid-l10n-indonesia-report
+sudo git clone -b 8.0 https://github.com/open-synergy/opnsynid-sale-reporting
+sudo git clone -b 8.0 https://github.com/OCA/product-variant
